@@ -1,5 +1,5 @@
 # Vue
-Vue环境搭建
+Vue环境搭建<br>
 1.安装Node.Js(`http://nodejs.cn/download/`)<br>
   --检查安装：`cmd-->node -v  -->npm -v`<br>
 2.基于淘宝npm镜像安装相关依赖 `npm install -g cnpm –registry=https://registry.npm.taobao.org`，回车等待<br>
